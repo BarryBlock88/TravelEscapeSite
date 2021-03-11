@@ -1,0 +1,33 @@
+html body{
+    margin: 0;
+    padding: unset;
+}
+
+
+
+.nav{
+    color: aqua;
+    display: block;
+    background-color: brown;
+    font-size: 20px;
+    padding: 10px;
+    margin: auto;
+    position: relative;
+}
+
+h1{
+    font-size: 70px;
+    color: coral;
+    text-align: center;
+}
+
+ul .social-link{
+background-color: #f44336;
+  color: teal;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  list-style: unset;
+
+}
